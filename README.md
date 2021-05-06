@@ -1,3 +1,20 @@
+# Notes
+## Key Concepts:
+* 📝[Stateful Logic](https://www.cronj.com/blog/learn-stateful-and-stateless-components-in-reactjs/) - Application logic related to the manipulation of data
+* 📝[Separation of Concerns](https://www.springboottutorial.com/software-design-seperation-of-concerns-with-examples) - The programming principle related to developing small, focused, modular and interconnected code.
+* 📝[Object bracket notation](https://ui.dev/computed-property-names/) - Also called "Computed properties." A piece of javascript syntax that allows for the key of an object to be passed dynamically
+
+## Key Terminology:
+* 📝[localStorage](https://blog.logrocket.com/localstorage-javascript-complete-guide/#whereislocalstoragestored) - a javascript module for saving persistant data within your application
+* 📝[the JSON library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) - Used for working with JSON objects. Used in this lesson specifically to convert between objects and strings using JSON.parse and JSON.stringify
+* 📝[Custom hook](https://reactjs.org/docs/hooks-custom.html) - a function used in functional React components for seperating business logic
+* 📝[Composing hooks](https://medium.com/better-programming/compose-react-hooks-like-composing-react-components-892c23530432) - the process of wrapping and modifying the functionality of one hook with another
+
+## Links
+* 🎥https://youtu.be/wVOU5H9VxY4
+* 📝https://github.com/LambdaSchool/web-guided-project-custom-hook
+* ⚙ https://github.com/nora-exe/web-module-project-custom-hook/tree/nora-corser
+
 # Module Project: Composing Stateful Logic - Dark Mode
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned what stateful logic is, how to build custom hooks, how to compose multiple hooks together, and how to use mocks and spies in testing. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
